@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "temp_tui"
+name = "temp-tui"
 version = "0.0.4"

@@ -1,5 +1,5 @@
 [package]
-name = "temp_tui"
+name = "temp-tui"
 version = "0.0.4"
 edition = "2024"
 description = "A command-line tool to convert temperatures between Celsius, Fahrenheit and Kelvin."
